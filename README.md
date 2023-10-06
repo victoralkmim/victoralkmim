@@ -4,7 +4,9 @@ Meu nome é Victor e atualmente estou estudando Desenvolvimento de Software com 
 Apaixonado por tecnologia e gastronomia, gosto muito de ler, aprender e compartilhar conhecimento.
 
 ### Para me encontrar: 
-# [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victoraalkmim) :point_left:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victoraalkmim)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](victoraalkmim@gmail.com)
 
 ### Skills
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
